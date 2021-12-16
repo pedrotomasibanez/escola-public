@@ -1,4 +1,4 @@
-# Inditext course 
+# Inditext course
 
 
 # GitHub for Developers
